@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Jost:ital,wght@0,100..900;1,100..900&family=Poetsen+One&family=Roboto+Slab:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Jost:ital,wght@0,100..900;1,100..900&family=Poetsen+One&family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&family=Roboto+Slab:wght@100..900&display=swap');
+
+img {
+height: 250px;
+width: auto;
+}
+header {
+    border-radius: 10px 10px 0 0;
+    background-color: #E3E4f0;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: #E3E4f0;
+}
+nav {
+    width: 80%;
+    background-color: #C7CED8;
+    text-align: center;
+    padding: 0px 10px 0 10px;
+    margin: 5px auto 5px auto;
+    border-radius: 10px 10px 10px 10px;
+}
+footer {
+    background-color: #C7CED8;
+    color: #3f6f82;
+    padding: 0px 20px 0 20px;
+    margin: 10px 10px 10px 0;
+}
+a {
+    color: #3f6f82;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+}
+#Yo {
+    border: solid #959fb8;
+    border-radius: 250px;
+}
+.Miperfil {
+    width: 80%;
+    padding: 10px 20px 0 20px;
+    margin: 10px auto 10px auto;
+    background-color: #C7CED8;
+    color: #3f6f82;
+    border-radius: 20px;
+    text-align: center;
+}
+.contenido {
+    background-color: #E3E4f0;
+    text-align: center;
+
+}
+.info {
+    font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    margin: 20px 30px 30px 20px;
+    padding: 10px 0 20px 20px;
+    background-color: #C7CED8;
+    border-radius: 50px 0 50px 0;
+    width: 80%;
+    margin: 25px auto 25px auto;
+}
+
+h3  {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.tproyect {
+    display: inline-block;
+    width: 40%;
+    margin: 20px auto 20px auto;
+    vertical-align: top;
+}
+.t2proyect {
+    display: inline-block;
+    width: 40%;
+    margin: 20px auto 20px auto;
+    vertical-align: top;
+}
+.iproyect {
+    width: 80%;
+    height: auto;
+    margin: 0 auto 10px auto;
+    border-radius: 20px 0 20px 0;
+}
+button {
+    border: solid 2px #3f6f82;
+    border-radius: 0 10px 10px 10px;
+    color: #3f6f82;
+    background-color: #C7CED8;
+}
+#fontp{
+    font-family: "Radio Canada Big", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.texto{
+    width: 80%;
+    margin: 10px auto 10px auto;
+}
+.navegacion{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    padding: 4px 3px 4px 3px;
+    text-align: center;
+}
+a:hover{
+  color: #5d91a5;
+}
+button:hover{
+    background-color: #5d91a5;
+}
+.icon{
+    width: 5%;
+    height: auto;
+    margin: 1% 0 0 0;
+}
