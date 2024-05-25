@@ -30,8 +30,8 @@ nav {
 footer {
     background-color: #C7CED8;
     color: #3f6f82;
-    padding: 0px 20px 0 20px;
-    margin: 10px 10px 10px 0;
+    padding: 10px 20px 20px 20px;
+    margin: 10px 10px 20px 0;
 }
 a {
     color: #3f6f82;
@@ -75,6 +75,7 @@ h3  {
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
+    color: #3f6f82;
 }
 .tproyect {
     display: inline-block;
@@ -117,18 +118,30 @@ button {
     text-align: center;
 }
 a:hover{
-  color: #5d91a5;
+  color: #E3E4f0;
+  background-color: #5d91a5;
+  padding: 0 5px;
+  border-radius: 10px;
 }
 button:hover{
     background-color: #5d91a5;
+    color: #E3E4f0;
 }
 .icon{
     width: 5%;
     height: auto;
     margin: 1% 0 0 0;
-
     padding: 0;
 }
 .encabezado{
    font-size: 250%;
+}
+.contacto{
+   width: 80%;
+   margin: 5% auto 5% auto;
+   border-radius: 50px 0 50px 0;
+  
+}
+.iconosdecontacto{
+   font-size: 30px;
 }
